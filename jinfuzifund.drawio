@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T07:31:53.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2oEoxOxRuC4pUTjIMtWD" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T07:35:37.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IMtt_HUDqLKfcEa1LPm_" version="16.6.1" type="github">
   <diagram id="jMUCffKsJ7CRJ28KtjYn" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -58,8 +58,26 @@
         <mxCell id="o8Iqj-5iZBnQBGtUt5R7-19" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;基本运维&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="210" y="490" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hyaUpE3TU4fiWR8MZ9cF-1" value="fund" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hyaUpE3TU4fiWR8MZ9cF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyaUpE3TU4fiWR8MZ9cF-1" target="hyaUpE3TU4fiWR8MZ9cF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyaUpE3TU4fiWR8MZ9cF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyaUpE3TU4fiWR8MZ9cF-1" target="hyaUpE3TU4fiWR8MZ9cF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyaUpE3TU4fiWR8MZ9cF-1" value="登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyaUpE3TU4fiWR8MZ9cF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hyaUpE3TU4fiWR8MZ9cF-2" target="hyaUpE3TU4fiWR8MZ9cF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hyaUpE3TU4fiWR8MZ9cF-2" value="开户" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyaUpE3TU4fiWR8MZ9cF-4" value="下单" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hyaUpE3TU4fiWR8MZ9cF-6" value="保存用户" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
